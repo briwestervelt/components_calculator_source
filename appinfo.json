@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "briwestervelt@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Resistor Calculator",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Resistor Calculator",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5158b835-84e5-4dd9-aef5-aa6cb94cbdd4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
