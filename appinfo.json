@@ -5,13 +5,13 @@
     ],
     "companyName": "briwestervelt@gmail.com",
     "enableMultiJS": true,
-    "longName": "Resistor Calculator",
+    "longName": "Components Calc",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "3",
-    "shortName": "Resistor Calculator",
+    "shortName": "Components Calculator",
     "targetPlatforms": [
         "aplite",
         "basalt",
