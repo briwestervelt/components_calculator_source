@@ -14,8 +14,7 @@
     "shortName": "Components Calculator",
     "targetPlatforms": [
         "aplite",
-        "basalt",
-        "chalk"
+        "basalt"
     ],
     "uuid": "5158b835-84e5-4dd9-aef5-aa6cb94cbdd4",
     "versionLabel": "1.0",
